@@ -1,0 +1,1 @@
+Composite é um design pattern que permite compor objetos como se fosse uma estrutura em árvore funcionando como um único objeto.
